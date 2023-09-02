@@ -22,7 +22,7 @@ Q: What is the percentage of total casualties with respect to accident severity 
 
 Q: What are the total casualties with respect to vehicletype, monthly trend showing comparison of casualties for the current year and previous year, maximum casualities by roadtype, distribution of total casualties by road surface, relation between casualties by areatype and lighting conditions?
 
-**FINDINGS:**
+**PROCESS + FINDINGS:**
 
 -Began by cleaning the data; added filter to check for missing values and spelling errors (found 49 spelling errors)
 
@@ -40,4 +40,6 @@ Q: What are the total casualties with respect to vehicletype, monthly trend show
 
   e. Under lighting conditions; grouped darkness categories together
 
-Brought together all pivot tables and linked the different sheets for easier navigation corresponding to the dashboard
+Brought together all pivot tables and linked the different sheets for easier navigation corresponding to the dashboard.
+
+
