@@ -8,7 +8,7 @@ Data cleaning, processing, analysis and visualization was done to gain valuable 
 
 These insights are visualized using Excel to provide an understanding of the data.
 
-![image](https://github.com/mukunjufelicity/Road-Accidents-Dashboard_Excel-Analysis/assets/8385040/06bca15f-861d-4d5f-849d-669806fa56e5)
+![image](https://github.com/mukunjufelicity/Road-Accidents-Dashboard_Excel-Analysis/blob/main/chunks/roadaccidents.png)
 
 **REQUIREMENTS:**
 
